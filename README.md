@@ -3,10 +3,13 @@ The purpose of this project is to create an application where a store owner can 
 
 **Product**
 User can add new product, update it's price and inventory as well as view all existing products
+
 **Supplier**
 User can add new supplier for their store, search and remove a supplier
+
 **Purchase**
 User can place new order to restock their inventory, view all orders, mark existing order if they have been received or cancellled
+
 ## How to get Started
 - For this project, you'll need to add mysql.h as an additional library directories
 - You will also need to install and set up MySQL on your machine
