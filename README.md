@@ -1,5 +1,6 @@
 # GroceryStoreManagementSystem
 The purpose of this project is to create an application where a store owner can manage it's inventory for their store. Some of the features in this project are:
+
 **Product**
 User can add new product, update it's price and inventory as well as view all existing products
 **Supplier**
