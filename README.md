@@ -1,14 +1,16 @@
 # GroceryStoreManagementSystem
 The purpose of this project is to create an application where a store owner can manage it's inventory for their store. Some of the features in this project are:
 
-**Product**
+**Product**:
 User can add new product, update it's price and inventory as well as view all existing products
 
-**Supplier**
+**Supplier**:
 User can add new supplier for their store, search and remove a supplier
 
-**Purchase**
+**Purchase**:
 User can place new order to restock their inventory, view all orders, mark existing order if they have been received or cancellled
+
+_There are still more features that can be added like managing employees and handling transactions_
 
 ## How to get Started
 - For this project, you'll need to add mysql.h as an additional library directories
